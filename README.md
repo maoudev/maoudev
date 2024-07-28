@@ -5,9 +5,9 @@
 ## Sobre mí
 
 - 👨‍🎓 Estudiante de ingeniería en informática en INACAP Rancagua.
-- 🚀 Apasionado por la programación en Go y Node.js.
+- 🚀 Apasionado por la programación Móvil.
+
 
 ## Experiencia
-
-- Creación de API RESTful y aplicaciones de servidor utilizando tecnologías web modernas en GO Y NodeJS.
-- Participación en proyectos personales.
+- Creación de sitios webs usando react y astro.
+- Creación de aplicaciones android usando firebase o retrofit.
