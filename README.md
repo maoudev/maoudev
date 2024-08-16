@@ -1,6 +1,6 @@
 # Renato Cavieres
 
-¡Hola! Soy Renato Cavieres, estudiante en INACAP Rancagua y Desarrollador Back-end.
+¡Hola! Soy Renato Cavieres, estudiante en INACAP Rancagua.
 
 ## Sobre mí
 
